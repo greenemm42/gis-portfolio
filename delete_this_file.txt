@@ -5,7 +5,7 @@ To assess how accessible public parks are to residents in a selected urban area,
 
 ## 🧰 Tools & Techniques Used
 - ArcGIS Pro
-- Spatial analysis: Buffer tool, Select Layer By Location
+- Spatial analysis: Buffer tool, Selaect Layer By Location
 - Symbology and labeling
 - Map layout creation and export
 
